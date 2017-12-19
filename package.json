@@ -1,0 +1,20 @@
+{
+  "name": "testprng",
+  "version": "0.0.1",
+  "title": "TestPRNG",
+  "description": "Test pseudo-random number generators",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LiosK/testprng.git"
+  },
+  "author": "LiosK <contact@mail.liosk.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/LiosK/testprng/issues"
+  },
+  "homepage": "https://github.com/LiosK/testprng"
+}
